@@ -8,4 +8,6 @@ Feature:
 - Auto reconnnect when disconnect
 - Sending stats to discord via webhook
 
+Easy config for your teams.
+
 <a href="https://bit.ly/raindc">Join Discord
